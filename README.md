@@ -1,8 +1,6 @@
 # paiement-refusé
 **GRAZIANO Edoardo - GURSEL Mustafa - ETIENNE Nathan**
-**- 12402567 - 12400647 - 12405730**
 
-**Identifiant forge : 42465**
 
 Paiement-refusé est une application présentant un jeu de BlackJack complet avec toutes ses règles et fonctionnalités classiques.
 IL est écrit en C++ et est compilable sous Linux, Windows et MacOS
